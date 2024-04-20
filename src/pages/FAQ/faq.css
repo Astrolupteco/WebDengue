@@ -1,0 +1,8 @@
+header {
+  background-image: url('public/imgs/FAQ/faq.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100px; /* Definir a altura do header */
+  position: relative; /* Posicionar o conteúdo do header */
+}
